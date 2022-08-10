@@ -39,7 +39,7 @@ mode = 1
 # TODO 
 # sendall is set to 0 by default, change to 1 if you want
 # the bot to send all pinned messages to the pins channel
-sendall = 0
+sendall = 1
 
 # TODO 
 # replace the 0 with the pins channel ID for your sever
